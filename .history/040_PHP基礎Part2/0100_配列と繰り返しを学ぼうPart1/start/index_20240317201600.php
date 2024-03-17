@@ -8,5 +8,5 @@ $arry[] = 'saburo';
 // echo $arry[1];
 
 for ($i = 0; $i < 4; $i++) {
-  echo '<div>', $arry[$i], '</div>';
+  echo $arry
 }
